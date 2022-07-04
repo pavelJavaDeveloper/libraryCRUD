@@ -1,4 +1,4 @@
-# Library CRUD Application 
+# Library CRUD Application (Spring MVC)
 ## навыки, применненые в проекте:
 - java SE
 - JDBC
